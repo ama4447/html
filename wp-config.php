@@ -31,7 +31,7 @@ define('DB_PASSWORD', 'password');
 #define('MULTISITE', true)
 #define('WP_ALLOW_MULTISITE', true)
 /** MySQL hostname */
-define('DB_HOST', '192.168.10.102');
+define('DB_HOST', '192.168.10.101');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
